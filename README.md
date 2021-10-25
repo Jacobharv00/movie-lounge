@@ -13,7 +13,7 @@
   
 [![Screen-Shot-2021-10-06-at-4-42-43-PM.png](https://i.postimg.cc/ZYj7SYXJ/Screen-Shot-2021-10-06-at-4-42-43-PM.png)](https://postimg.cc/7bGM14xR)
 
-### ✨ [Demo](COMING SOON!) ✨
+### ✨ [Movie Lounge Demo](https://www.loom.com/share/1d88bc16afe942bcb15302fdc1bfbcca?sharedAppSource=personal_library) ✨
 
 ## 💻 [Tech] 💻 
 <ul>
